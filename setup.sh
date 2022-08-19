@@ -15,11 +15,11 @@ eval $INSTALL_CMD lf
 cd zsh
 zsh ./setup.sh
 
-cd ../nvim
-zsh ./setup.sh
+#cd ../nvim
+#zsh ./setup.sh
 
-cd ../tmux
-zsh ./setup.sh
+#cd ../tmux
+#zsh ./setup.sh
 
 # uncomment to install i3wm with configs
 #cd ../wm
